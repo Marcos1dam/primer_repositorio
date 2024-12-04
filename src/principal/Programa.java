@@ -52,6 +52,7 @@ public class Programa {
 
 	private static void modificar_Capacidad(NaveEspacial[] naves, int cont, Scanner teclado) {
 		System.out.println("Introduce");
+		System.out.println("porbar git con cambios");
 		
 	}
 
